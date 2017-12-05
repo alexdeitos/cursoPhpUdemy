@@ -19,4 +19,6 @@
 	imagedestroy($new_image);
 	imagedestroy($old_image);
 
+	echo "teste"
+
 ?>
